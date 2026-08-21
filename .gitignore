@@ -1,0 +1,10 @@
+# IDEs and Editors
+**/.vscode/
+references/
+
+# Temporary and Log Files
+*.log
+*.tmp
+*.ini
+.DS_Store
+Thumbs.db
